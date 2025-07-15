@@ -1,0 +1,35 @@
+# Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+
+# System files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+
+# Virtual environment
+venv/
+env/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Gradle build cache
+.gradle/
+build/
+
+# Audio & PDF artifacts
+*.wav
+*.mp3
+*.pdf
+
+# Secrets
+.env
+
+# OS-specific clutter
+AppData/
+INetCache/
